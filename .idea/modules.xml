@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EstudosJava.iml" filepath="$PROJECT_DIR$/.idea/EstudosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividadeFixacao1/atividadeFixacao1.iml" filepath="$PROJECT_DIR$/atividadeFixacao1/atividadeFixacao1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entradaDeDados/entradaDeDados.iml" filepath="$PROJECT_DIR$/entradaDeDados/entradaDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exEstruturaSequencial/exEstruturaSequencial.iml" filepath="$PROJECT_DIR$/exEstruturaSequencial/exEstruturaSequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exEstruturaSequencial2/exEstruturaSequencial2.iml" filepath="$PROJECT_DIR$/exEstruturaSequencial2/exEstruturaSequencial2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exEstruturaSequencial3/exEstruturaSequencial3.iml" filepath="$PROJECT_DIR$/exEstruturaSequencial3/exEstruturaSequencial3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exEstruturaSequencial4/exEstruturaSequencial4.iml" filepath="$PROJECT_DIR$/exEstruturaSequencial4/exEstruturaSequencial4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exEstruturaSequencial5/exEstruturaSequencial5.iml" filepath="$PROJECT_DIR$/exEstruturaSequencial5/exEstruturaSequencial5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exEstruturaSequencial6/exEstruturaSequencial6.iml" filepath="$PROJECT_DIR$/exEstruturaSequencial6/exEstruturaSequencial6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcoesMatematicas/funcoesMatematicas.iml" filepath="$PROJECT_DIR$/funcoesMatematicas/funcoesMatematicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro_projeto/primeiro_projeto.iml" filepath="$PROJECT_DIR$/primeiro_projeto/primeiro_projeto.iml" />
+    </modules>
+  </component>
+</project>
